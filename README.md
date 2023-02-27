@@ -1,7 +1,3 @@
-# web-scraping
-Module 11 Challenge via Bootcamp: TCC-VIRT-DATA-PT-10-2022-U-LOLC-MTTH
-
-web-scraping
 Part 1: Scrape Titles and Preview Text from Mars News
 • Automated browsing (with Splinter) was used to visit the Mars news site, and the HTML code was extracted (with Beautiful Soup).
 
